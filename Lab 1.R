@@ -2,7 +2,7 @@
 #Q1)Variables and Data types
 
 #Q1)
-name<- "Tanaya"
+name<- "Shantanu"
 age<- 20
 student<- TRUE
 
@@ -302,3 +302,4 @@ ggplot(top_10,aes( x = reorder(Name, -SR), y = SR)) +
 
 #Q6)
 cor(batting_bowling_ipl_bat$HF, batting_bowling_ipl_bat$Runs, use = "complete.obs")
+
